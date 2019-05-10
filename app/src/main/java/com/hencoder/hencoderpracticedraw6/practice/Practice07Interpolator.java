@@ -31,6 +31,10 @@ import com.hencoder.hencoderpracticedraw6.Utils;
  * Interpolator 就别练了，没什么好练的，Practice 和 Sample 的代码是一毛一样的。
  * 它的关键是理解，所以还是去看几眼实际效果吧。
  */
+
+/**
+ * ...好吧
+ */
 public class Practice07Interpolator extends LinearLayout {
     Spinner spinner;
     Button animateBt;
